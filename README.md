@@ -42,6 +42,7 @@ Parsed data files.
 
 | Dashboard | Platform | Location | Input data |
 |:--|:-:|:--|:--|
+| Sales trends | Tableau | [`Tableau dashboard`](https://public.tableau.com/profile/robin.ramos#!/vizhome/SalesTrends_5/Dashboard1) | data03_Monthly product segment sales per customer.csv, ata04_cleaned lookup.xlsx |
 
 #### Models
 
